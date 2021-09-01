@@ -1,0 +1,9 @@
+class = it is a collection of method object & property
+
+dependency injection = tranferring data (object) one class to another class that is dependency
+
+API stands for application programming interface. It allows two applications 
+to communicate with one another to access data.
+
+The Document Object Model (DOM) is a programming API for HTML and XML documents.
+It defines the logical structure of documents and the way a document is accessed and manipulated
